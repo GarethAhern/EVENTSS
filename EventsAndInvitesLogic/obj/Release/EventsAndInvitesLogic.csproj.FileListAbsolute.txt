@@ -1,0 +1,7 @@
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\bin\Release\EventsAndInvitesLogic.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\bin\Release\EventsAndInvitesLogic.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\bin\Release\Dapper.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\bin\Release\Dapper.xml
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\obj\Release\EventsAndInvitesLogic.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\obj\Release\EventsAndInvitesLogic.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\obj\Release\EventsAndInvitesLogic.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesLogic\bin\Debug\Dapper.dll
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesLogic\bin\Debug\Dapper.xml
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesLogic\obj\Debug\EventsAndInvitesLogic.csprojResolveAssemblyReference.cache
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesLogic\obj\Debug\EventsAndInvitesLogic.dll
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesLogic\obj\Debug\EventsAndInvitesLogic.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\bin\Debug\EventsAndInvitesLogic.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\bin\Debug\EventsAndInvitesLogic.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\bin\Debug\Dapper.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\bin\Debug\Dapper.xml
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\obj\Debug\EventsAndInvitesLogic.csprojResolveAssemblyReference.cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\obj\Debug\EventsAndInvitesLogic.csproj.ResolveComReference.cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\obj\Debug\EventsAndInvitesLogic.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesLogic\obj\Debug\EventsAndInvitesLogic.pdb
