@@ -1,0 +1,60 @@
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csprojResolveAssemblyReference.cache
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.EventForm.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.EventTypeForm.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.MainDashBoards.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.Properties.Resources.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.Registration.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csproj.GenerateResource.Cache
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.exe.config
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.exe
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.pdb
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesLogic.dll
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\bin\Debug\Dapper.dll
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesLogic.pdb
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\bin\Debug\Dapper.xml
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.exe
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.exe.config
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csproj.ResolveComReference.cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.exe
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesLogic.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Debug\Dapper.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesLogic.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Debug\Dapper.xml
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csprojResolveAssemblyReference.cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.LoadResponses.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.UpdateInviteStatusForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.LocationForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.EventForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.EventTypeForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.MainDashBoards.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.Properties.Resources.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.RegistrationForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csproj.GenerateResource.Cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.exe
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.pdb
+H:\EventsAndInvites\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.exe.config
+H:\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csproj.ResolveComReference.cache
+H:\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.exe
+H:\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.pdb
+I:\BMIT\Events\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.exe.config
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csproj.ResolveComReference.cache
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.exe
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.pdb
+I:\BMIT\Events\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.exe
+I:\BMIT\Events\EventsAndInvitesUI\bin\Debug\EventsAndInvitesUI.pdb
+I:\BMIT\Events\EventsAndInvitesUI\bin\Debug\EventsAndInvitesLogic.dll
+I:\BMIT\Events\EventsAndInvitesUI\bin\Debug\Dapper.dll
+I:\BMIT\Events\EventsAndInvitesUI\bin\Debug\EventsAndInvitesLogic.pdb
+I:\BMIT\Events\EventsAndInvitesUI\bin\Debug\Dapper.xml
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csprojResolveAssemblyReference.cache
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.LoadResponses.resources
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.UpdateInviteStatusForm.resources
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.LocationForm.resources
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.EventForm.resources
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.EventTypeForm.resources
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.MainDashBoards.resources
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.Properties.Resources.resources
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.RegistrationForm.resources
+I:\BMIT\Events\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.csproj.GenerateResource.Cache

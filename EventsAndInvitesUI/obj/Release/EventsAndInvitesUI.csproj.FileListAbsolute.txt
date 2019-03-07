@@ -1,0 +1,25 @@
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.EventForm.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.EventTypeForm.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.MainDashBoards.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.Properties.Resources.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.Registration.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.csproj.GenerateResource.Cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Release\EventsAndInvitesUI.exe.config
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Release\EventsAndInvitesUI.exe
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Release\EventsAndInvitesUI.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Release\EventsAndInvitesLogic.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Release\Dapper.dll
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Release\EventsAndInvitesLogic.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\bin\Release\Dapper.xml
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.csprojResolveAssemblyReference.cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.EventForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.EventTypeForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.MainDashBoards.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.Properties.Resources.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.csproj.GenerateResource.Cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.exe
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.pdb
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.LocationForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.RegistrationForm.resources
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.csproj.ResolveComReference.cache
+C:\Users\gahern\work\EventsAndInvites\EventsAndInvitesUI\obj\Release\EventsAndInvitesUI.UpdateInviteStatusForm.resources
