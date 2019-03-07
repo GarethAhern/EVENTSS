@@ -1,0 +1,6 @@
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI3.csprojResolveAssemblyReference.cache
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.EventTypeForm.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.MainDashBoards.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI3.Properties.Resources.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI.Registration.resources
+\\aklfiler01\gahern\Data\Visual Studio 2015\Projects\EventsAndInvites\EventsAndInvitesUI\obj\Debug\EventsAndInvitesUI3.csproj.GenerateResource.Cache
